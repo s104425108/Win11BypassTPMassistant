@@ -1,4 +1,9 @@
 # Win11BypassTPMassistant
+
+**版本1.0**
+
+***版本1.0***
+---
 直接開始:
 ```bash
 下載此項目: [鏈結] vfdvdf
