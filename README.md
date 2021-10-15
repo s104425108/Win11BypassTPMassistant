@@ -6,6 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s104425108)
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s104425108&repo=github-readme-stats)
 
 ## 介紹
 ![intro](readme_storage/intro.png)
