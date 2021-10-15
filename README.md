@@ -2,7 +2,7 @@
 
 **版本1.0**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?s104425108=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api username=s104425108&theme=radical)
 
 ## 介紹
 ![intro](readme_storage/intro.png)
