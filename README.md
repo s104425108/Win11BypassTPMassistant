@@ -6,7 +6,7 @@
 下載此項目: [鏈結](https://www.youtube.com/watch?v=ppMXtTbNnCs) sdv
 
 特色:
-![](readme_storage/wechat_logo.png)
+![](readme_storage/fast.png)
 -入門快
 -執行快
 -精準度佳
