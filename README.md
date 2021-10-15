@@ -6,11 +6,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s104425108&layout=compact&theme=gruvbox)](https://github.com/s104425108/github-readme-stats)
 
-| 項目 | 授權 |
-|:   |:   :|
-| [head-pose-estimation](https://github.com/yinguobing/head-pose-estimation) | [LICENSE](licenses/LICENSE.head-pose-estimation) |
-| [face-alignment](https://github.com/1adrianb/face-alignment) | [LICENSE](licenses/LICENSE.face-alignment) |
-| [GazeTracking](https://github.com/antoinelame/GazeTracking) | [LICENSE](licenses/LICENSE.GazeTracking) |
+| 額外項目 | 載點 |
+|----|----|
+| v0.21補丁 | [DOWNLOAD](licenses/LICENSE.head-pose-estimation) |
+| v0.2補丁 | [DOWNLOAD](licenses/LICENSE.face-alignment) |
+| v0.1補丁 | [DOWNLOAD](licenses/LICENSE.GazeTracking) |
 
 ## 介紹
 ![intro](readme_storage/intro.png)
