@@ -6,8 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s104425108&layout=compact&theme=gruvbox)](https://github.com/s104425108/github-readme-stats)
 
-| Project | LICENSE |
-|:---:|----|
+| 項目 | 授權 |
+|----|----|
 | [head-pose-estimation](https://github.com/yinguobing/head-pose-estimation) | [LICENSE](licenses/LICENSE.head-pose-estimation) |
 | [face-alignment](https://github.com/1adrianb/face-alignment) | [LICENSE](licenses/LICENSE.face-alignment) |
 | [GazeTracking](https://github.com/antoinelame/GazeTracking) | [LICENSE](licenses/LICENSE.GazeTracking) |
