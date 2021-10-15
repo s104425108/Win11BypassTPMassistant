@@ -2,6 +2,8 @@
 
 **版本1.0**
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?s104425108=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 介紹
 ![intro](readme_storage/intro.png)
 
@@ -21,7 +23,7 @@
 ## 下載
 下載此項目: [鏈結](https://www.youtube.com/watch?v=ppMXtTbNnCs) sdv
 
-### 簡述
+## 簡述
 
 1. sdvsdv
 
@@ -29,7 +31,7 @@
 
 3. sdvsdv
 
-### 特色
+## 特色
 
 ![beginne](readme_storage/beginne.png)
 ![precise](readme_storage/precise.png)
@@ -44,5 +46,7 @@
 [跳至_直接開始](#直接開始)
 
 [跳至_下載](#下載)
+
 [跳至_簡述](#簡述)
+
 [跳至_特色](#特色)
