@@ -4,9 +4,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s104425108&show_icons=true&theme=radical&count_private=true&hide=contribs,prs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s104425108)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s104425108&layout=compact&theme=gruvbox)](https://github.com/s104425108/github-readme-stats)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s104425108&repo=github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s104425108)
 
 ## 介紹
 ![intro](readme_storage/intro.png)
